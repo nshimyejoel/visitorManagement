@@ -6,7 +6,21 @@ VisitorManagement is a PHP web application built on CodeIgniter 3 framework that
 The application uses MYSQLI Database.
 
 
-it contains one user using the following credentials:
+The system has one user who performs different tasks mentioned above
+
+
+ Credentials:
+
 
 username : admin
 password : 12345
+
+
+
+
+
+
+
+
+
+
